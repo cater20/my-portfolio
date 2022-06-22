@@ -1,7 +1,7 @@
 const input = document.getElementsByClassId('call');
   
-function click1() {
-  alert("CALL : +254792149427");
+function click1(e) {
+  return e("CALL : +254792149427");
 }
 
 input.addEventListener('click', click1);
