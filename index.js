@@ -6,7 +6,7 @@ function click1(e) {
 
 input.addEventListener('click', click1);
 
-//onclick on the email
+
 const emailIcon = document.getElementById('email');
   
 function onClickAlert() {
