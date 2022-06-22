@@ -1,6 +1,7 @@
 # my-portfolio
 Description 
 This is a web-based portfolio project ,created under three most basic web languages that is the HTML ,CSS and JAVASCRIPT
+
 added a licence by MIT LICENCE 
 Copyright <2022> <chrisphine>
 
@@ -22,4 +23,5 @@ Contributors
  5: in the Vscode create a web -broswer display content that is the index.html,add aindex.css for layout formatting and lastly Javascript codes .
  
   live-link
+  gh repo clone cater20/my-portfolio
   
