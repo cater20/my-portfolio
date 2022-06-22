@@ -1,8 +1,111 @@
 body{
-    background-color: green;
-    font-style: italic;
+    background-color:peru;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size:medium;
+}
+
+
+#header-container{
+    display: flex;
     
 }
+
+#header-content{
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+
+nav #top-nav {
+    display: flex;
+    margin-left: 70px;
+}
+
+#logo {
+    color: beige;
+    height: 300px;
+    width: 250px;
+    padding-right: 100px;
+    margin-left: 20px;
+    
+}
+#hr{
+    background-color:yellow;
+    padding: 2px;
+    margin-left: 200px;
+    margin-right: 0px;
+    
+}
+
+div .nav-right {
+    margin-top: 30px;
+}
+
+div ul li a {
+    text-decoration: none;
+    color: rgb(252,48,75);
+    font-weight: 900;
+    font-size: x-large;
+    padding-right: 60px;
+    padding-top: 20px;
+}
+
+div ul li a:hover{
+    color:#000;
+}
+
+div ul li {
+    display: inline;
+}
+
+
+input:hover{
+    color:blue;
+    background-color:blue;
+}
+
+h1{
+    text-align: center;
+}
+
+#about{
+    display: flex;
+
+
+}
+
+#h{
+    margin: 0px 80px 0px 80px;
+    text-align: center;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+
+.services{
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#contact{
+    display: flex;
+    justify-content: center;
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.social{
+    margin: 30px;
+    width: 40px;
+    cursor: pointer;
+}
+
 footer{
-    color: blue;
+    background-color:  black;
+    text-align: center;
+    padding: 50px;
+}
+
+span{
+    color:  rgb(250,48,65);
 }
