@@ -1,4 +1,6 @@
 # my-portfolio
+Description 
+This is a web-based portfolio project ,created under three most basic web languages that is the HTML ,CSS and JAVASCRIPT
 added a licence by MIT LICENCE 
 Copyright <2022> <chrisphine>
 
@@ -8,5 +10,16 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Description 
-This is a web-based portfolio project ,created under three most basic web languages that is the HTML ,CSS and JAVASCRIPT
+
+Contributors
+  keta chrisphine 
+  
+  Set-up
+ 1: create a reposiratory on the github,add a READMEmd file ,
+  2:fork  and 
+  3:clone the reposiratory to your local machine for easy navigation of the needed reposiratory projeect ,
+  4:set-up the terminal and the Vscode .
+ 5: in the Vscode create a web -broswer display content that is the index.html,add aindex.css for layout formatting and lastly Javascript codes .
+ 
+  live-link
+  
